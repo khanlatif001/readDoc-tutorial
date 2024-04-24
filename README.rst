@@ -8,7 +8,6 @@ Read the tutorial here in the following link:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
-![alt text](https://github.com/khanlatif001/readDoc-tutorial/blob/main/docs/source/Screenshots/projectcreation.png?raw=true)
 
 
 
